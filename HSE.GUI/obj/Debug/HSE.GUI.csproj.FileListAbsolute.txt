@@ -1,0 +1,10 @@
+C:\Users\user\Documents\c# programs\HSE\HSE.GUI\bin\Debug\HSE.GUI.exe.config
+C:\Users\user\Documents\c# programs\HSE\HSE.GUI\bin\Debug\HSE.GUI.exe
+C:\Users\user\Documents\c# programs\HSE\HSE.GUI\bin\Debug\HSE.GUI.pdb
+C:\Users\user\Documents\c# programs\HSE\HSE.GUI\obj\Debug\HSE.GUI.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\c# programs\HSE\HSE.GUI\obj\Debug\HSE.GUI.Properties.Resources.resources
+C:\Users\user\Documents\c# programs\HSE\HSE.GUI\obj\Debug\HSE.GUI.csproj.GenerateResource.Cache
+C:\Users\user\Documents\c# programs\HSE\HSE.GUI\obj\Debug\HSE.GUI.exe
+C:\Users\user\Documents\c# programs\HSE\HSE.GUI\obj\Debug\HSE.GUI.pdb
+C:\Users\user\Documents\c# programs\HSE\HSE.GUI\obj\Debug\HSE.GUI.Form2.resources
+C:\Users\user\Documents\c# programs\HSE\HSE.GUI\obj\Debug\HSE.GUI.Form3.resources

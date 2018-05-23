@@ -1,0 +1,13 @@
+C:\Users\user\Documents\c# programs\HSE\HSE.Tests\bin\Debug\HSE.Tests.dll
+C:\Users\user\Documents\c# programs\HSE\HSE.Tests\bin\Debug\HSE.Tests.pdb
+C:\Users\user\Documents\c# programs\HSE\HSE.Tests\bin\Debug\HSE.Main.dll
+C:\Users\user\Documents\c# programs\HSE\HSE.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\user\Documents\c# programs\HSE\HSE.Tests\bin\Debug\HSE.Base.dll
+C:\Users\user\Documents\c# programs\HSE\HSE.Tests\bin\Debug\HSE.Locale.dll
+C:\Users\user\Documents\c# programs\HSE\HSE.Tests\bin\Debug\HSE.Main.pdb
+C:\Users\user\Documents\c# programs\HSE\HSE.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\user\Documents\c# programs\HSE\HSE.Tests\bin\Debug\HSE.Base.pdb
+C:\Users\user\Documents\c# programs\HSE\HSE.Tests\bin\Debug\HSE.Locale.pdb
+C:\Users\user\Documents\c# programs\HSE\HSE.Tests\obj\Debug\HSE.Tests.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\c# programs\HSE\HSE.Tests\obj\Debug\HSE.Tests.dll
+C:\Users\user\Documents\c# programs\HSE\HSE.Tests\obj\Debug\HSE.Tests.pdb

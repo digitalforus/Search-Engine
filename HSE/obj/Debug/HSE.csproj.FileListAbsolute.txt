@@ -1,0 +1,37 @@
+c:\users\user\documents\visual studio 2015\Projects\HSE\HSE\bin\Debug\HSE.exe.config
+c:\users\user\documents\visual studio 2015\Projects\HSE\HSE\obj\Debug\HSE.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\HSE\HSE\bin\Debug\HSE.exe
+c:\users\user\documents\visual studio 2015\Projects\HSE\HSE\bin\Debug\HSE.pdb
+c:\users\user\documents\visual studio 2015\Projects\HSE\HSE\bin\Debug\HSE.Main.dll
+c:\users\user\documents\visual studio 2015\Projects\HSE\HSE\bin\Debug\HSE.Main.pdb
+c:\users\user\documents\visual studio 2015\Projects\HSE\HSE\obj\Debug\HSE.exe
+c:\users\user\documents\visual studio 2015\Projects\HSE\HSE\obj\Debug\HSE.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\HSE\HSE\bin\Debug\HSE.Base.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\HSE\HSE\bin\Debug\HSE.Base.pdb
+C:\Users\user\Documents\c# programs\HSE\HSE\bin\Debug\HSE.exe.config
+C:\Users\user\Documents\c# programs\HSE\HSE\obj\Debug\HSE.exe
+C:\Users\user\Documents\c# programs\HSE\HSE\obj\Debug\HSE.pdb
+C:\Users\user\Documents\c# programs\HSE\HSE\bin\Debug\HSE.exe
+C:\Users\user\Documents\c# programs\HSE\HSE\bin\Debug\HSE.pdb
+C:\Users\user\Documents\c# programs\HSE\HSE\bin\Debug\HSE.Main.dll
+C:\Users\user\Documents\c# programs\HSE\HSE\bin\Debug\HSE.Base.dll
+C:\Users\user\Documents\c# programs\HSE\HSE\bin\Debug\HSE.Main.pdb
+C:\Users\user\Documents\c# programs\HSE\HSE\bin\Debug\HSE.Base.pdb
+C:\Users\user\Documents\c# programs\HSE\HSE\obj\Debug\HSE.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\c# programs\HSE\HSE\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\user\Documents\c# programs\HSE\HSE\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\user\Documents\c# programs\HSE\HSE\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\user\Documents\c# programs\HSE\HSE\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\user\Documents\c# programs\HSE\HSE\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\user\Documents\c# programs\HSE\HSE\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\user\Documents\c# programs\HSE\HSE\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\user\Documents\c# programs\HSE\HSE\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\user\Documents\c# programs\HSE\HSE\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\user\Documents\c# programs\HSE\HSE\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\user\Documents\c# programs\HSE\HSE\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\user\Documents\c# programs\HSE\HSE\bin\Debug\IKVM.Runtime.dll
+C:\Users\user\Documents\c# programs\HSE\HSE\bin\Debug\tika-app-0.9.dll
+C:\Users\user\Documents\c# programs\HSE\HSE\bin\Debug\HSE.Locale.dll
+C:\Users\user\Documents\c# programs\HSE\HSE\bin\Debug\HSE.Locale.pdb
+C:\Users\user\Documents\c# programs\HSE\HSE\bin\Debug\HSE.Main.dll.config
+C:\Users\user\Documents\c# programs\HSE\HSE\bin\Debug\HSE.Base.dll.config

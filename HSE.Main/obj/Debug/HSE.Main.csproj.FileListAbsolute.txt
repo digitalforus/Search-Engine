@@ -1,0 +1,45 @@
+c:\Users\user\documents\visual studio 2015\Projects\HSE\HSE.Main\bin\Debug\HSE.Main.dll
+c:\Users\user\documents\visual studio 2015\Projects\HSE\HSE.Main\bin\Debug\HSE.Main.pdb
+c:\Users\user\documents\visual studio 2015\Projects\HSE\HSE.Main\bin\Debug\HSE.Base.dll
+c:\Users\user\documents\visual studio 2015\Projects\HSE\HSE.Main\bin\Debug\HSE.Base.pdb
+c:\Users\user\documents\visual studio 2015\Projects\HSE\HSE.Main\obj\Debug\HSE.Main.csprojResolveAssemblyReference.cache
+c:\Users\user\documents\visual studio 2015\Projects\HSE\HSE.Main\obj\Debug\HSE.Main.dll
+c:\Users\user\documents\visual studio 2015\Projects\HSE\HSE.Main\obj\Debug\HSE.Main.pdb
+C:\Users\user\Documents\c# programs\HSE\HSE.Main\bin\Debug\HSE.Main.dll
+C:\Users\user\Documents\c# programs\HSE\HSE.Main\bin\Debug\HSE.Main.pdb
+C:\Users\user\Documents\c# programs\HSE\HSE.Main\bin\Debug\HSE.Base.dll
+C:\Users\user\Documents\c# programs\HSE\HSE.Main\bin\Debug\HSE.Base.pdb
+C:\Users\user\Documents\c# programs\HSE\HSE.Main\obj\Debug\HSE.Main.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\c# programs\HSE\HSE.Main\obj\Debug\HSE.Main.dll
+C:\Users\user\Documents\c# programs\HSE\HSE.Main\obj\Debug\HSE.Main.pdb
+C:\Users\user\Documents\c# programs\HSE\HSE.Main\bin\Debug\HSE.Main.dll.config
+C:\Users\user\Documents\c# programs\HSE\HSE.Main\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\user\Documents\c# programs\HSE\HSE.Main\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\user\Documents\c# programs\HSE\HSE.Main\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\user\Documents\c# programs\HSE\HSE.Main\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\user\Documents\c# programs\HSE\HSE.Main\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\user\Documents\c# programs\HSE\HSE.Main\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\user\Documents\c# programs\HSE\HSE.Main\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\user\Documents\c# programs\HSE\HSE.Main\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\user\Documents\c# programs\HSE\HSE.Main\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\user\Documents\c# programs\HSE\HSE.Main\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\user\Documents\c# programs\HSE\HSE.Main\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\user\Documents\c# programs\HSE\HSE.Main\bin\Debug\IKVM.Runtime.dll
+C:\Users\user\Documents\c# programs\HSE\HSE.Main\bin\Debug\tika-app-0.9.dll
+C:\Users\user\Documents\c# programs\HSE\HSE.Main\bin\Debug\HSE.Locale.dll
+C:\Users\user\Documents\c# programs\HSE\HSE.Main\bin\Debug\HSE.Locale.pdb
+C:\Users\user\Documents\c# programs\HSE\HSE.Main\bin\Debug\HSE.Base.dll.config
+C:\Users\user\Documents\c# programs\HSE\HSE.Main\bin\Debug\TikaOnDotNet.TextExtraction.dll
+C:\Users\user\Documents\c# programs\HSE\HSE.Main\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\user\Documents\c# programs\HSE\HSE.Main\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\user\Documents\c# programs\HSE\HSE.Main\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\user\Documents\c# programs\HSE\HSE.Main\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\user\Documents\c# programs\HSE\HSE.Main\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\user\Documents\c# programs\HSE\HSE.Main\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\user\Documents\c# programs\HSE\HSE.Main\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\user\Documents\c# programs\HSE\HSE.Main\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\user\Documents\c# programs\HSE\HSE.Main\bin\Debug\TikaOnDotNet.dll
+C:\Users\user\Documents\c# programs\HSE\HSE.Main\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\user\Documents\c# programs\HSE\HSE.Main\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\user\Documents\c# programs\HSE\HSE.Main\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\user\Documents\c# programs\HSE\HSE.Main\bin\Debug\IKVM.OpenJDK.Charsets.dll
